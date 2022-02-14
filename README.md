@@ -7,7 +7,7 @@ Codes or simulations results are included in reports on each topic.
 
 ## Projects
 
-__Project__ : *Calculation of the effect of the troposphere on the Alphasat satellite payload*, Master student at UCLouvain.
+__Project__ : *Calculation of the effect of the troposphere on the Alphasat satellite payload*, Master student at UCLouvain (Belgium).
 
 ![image](https://user-images.githubusercontent.com/48290004/153782438-07e0186a-2753-421e-babc-d50c3587f8dd.png)
 
@@ -22,7 +22,7 @@ in Louvain-La-Neuve (Belgium) and the other at McMurdo station (Antarctica), und
 
 __Results__ : Firstly, the attenuations of the signal traveling between the satellite and the stations were computed. Secondly, from the satellite specifications, the minimum power threshold were determined for the frequencies of used. Therefore, the feasability of transmission could be assessed if the power minus the attenuation was higher than the required detection threshold.
 
-__Project__ : *MEMS film deposition design and fabrication*, Master student at Keio University.
+__Project__ : *MEMS film deposition design and fabrication*, Master student at Keio University (Japan).
 
 ![image](https://user-images.githubusercontent.com/48290004/153788889-842de8a8-7764-4363-82b0-194c10a4cc88.png)
 
