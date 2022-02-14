@@ -20,7 +20,7 @@ __Project__ : *Calculation of the effect of the troposphere on the Alphasat sate
 __Tasks__ : Assess feasability to transmit a signal between a Cubesat (new, cheap generation of satellite) and 2 different stations on earth, one located
 in Louvain-La-Neuve (Belgium) and the other at McMurdo station (Antarctica), under different conditions.
 
-__Results__ : Firstly, the attenuations of the signal traveling between the satellite and the stations were computed. Secondly, from the satellite specifications, the minimum power threshold were determined for the frequencies of used. Therefore, the feasability of transmission could be assessed if the power minus the attenuation was higher than the required detection threshold.
+__Results__ : Firstly, the attenuations of the signal traveling between the satellite and the stations were computed. Secondly, from the satellite specifications, the minimum power threshold were determined for the frequencies of use. Therefore, the feasability of transmission could be assessed if the power minus the attenuation was higher than the required detection threshold.
 
 __Project__ : *MEMS film deposition design and fabrication*, Master student at Keio University (Japan).
 
